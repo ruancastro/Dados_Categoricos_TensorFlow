@@ -7,3 +7,6 @@ https://github.com/GoogleCloudPlatform/tf-estimator-tutorials/blob/master/00_Mis
 
 Procure por  " Como implementar o modelo do TensorFlow " No primeiro link .
 Busque por :   _is_categorical
+
+
+https://matheusfacure.github.io/2017/06/10/tf-detalhes/ -> TF
